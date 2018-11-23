@@ -1,1 +1,1 @@
-# Mitov Ruby CSV, JSON
+# Mitov Ruby CSV, JSON, XML
